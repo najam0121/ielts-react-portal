@@ -23,8 +23,24 @@
 [![Performance](https://img.shields.io/badge/Performance-98%25-00C851?style=for-the-badge&logo=google-pagespeed-insights&logoColor=white&labelColor=000)]()
 [![Mobile Score](https://img.shields.io/badge/Mobile_Score-96%25-FF6900?style=for-the-badge&logo=lighthouse&logoColor=white&labelColor=000)]()
 [![Accessibility](https://img.shields.io/badge/Accessibility-100%25-8BC34A?style=for-the-badge&logo=webaim&logoColor=white&labelColor=000)]()
+</div>
+
+## 🚀 Live Demo
+
+<div align="center">
+
+[![🌍 Visit Live Project](https://img.shields.io/badge/🌐-Live%20Demo-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://ielts-academy-mocha.vercel.app/)
+
+> 🎯 Experience the full IELTS Excellence Academy interface live:  
+> 👉 [https://ielts-academy-mocha.vercel.app](https://ielts-academy-mocha.vercel.app)
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=check-circle" alt="Status" />
+<img src="https://img.shields.io/badge/Platform-Web-informational?style=flat-square&logo=google-chrome" alt="Platform" />
+<img src="https://img.shields.io/badge/Mobile-Optimized-ff69b4?style=flat-square&logo=mobile" alt="Mobile" />
 
 </div>
+
+
 
 ---
 
